@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Простой клиент</string>
+
+    <string name="title_message">Сообщение</string>
+    <string name="title_demo_app">Это демо приложение.</string>
+    <string name="sex_male">M</string>
+    <string name="sex_female">Ж</string>
+</resources>

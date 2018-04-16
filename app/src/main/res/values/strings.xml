@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Simple Client</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="user_massage">User massage</string>
+    <string name="title_message">Message</string>
+    <string name="title_demo_app">This is a demo application.</string>
+    <string name="sex_male">M</string>
+    <string name="sex_female">F</string>
+</resources>
